@@ -1,0 +1,4 @@
+addition
+subtraction
+multiplicaton 
+divition
