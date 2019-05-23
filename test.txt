@@ -1,0 +1,6 @@
+addition
+subtraction
+multiplicaton 
+divition
+calculation 
+maths
